@@ -9,13 +9,13 @@ You can play or download the latest build here: Shadow Sync on Itch.io
 
 🛠 Technical FeaturesEngine: 
 
-Unity (developed using Unity Hub).
+1. Unity (developed using Unity Hub).
 
-Scripting: C# for core gameplay logic and object interactions.
+2. Scripting: C# for core gameplay logic and object interactions.
 
-Performance: Optimized rendering and logic to ensure stable frame rates and reduced memory overhead.
+3. Performance: Optimized rendering and logic to ensure stable frame rates and reduced memory overhead.
 
-Version Control: Developed using Git for systematic change tracking and collaborative potential.
+4. Version Control: Developed using Git for systematic change tracking and collaborative potential.
 
 📂 Repository Structure:
 
